@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Biriyani
 Soft Drink
 Chips
+=======
+Kushi
+Vikram
+Pokiri
+>>>>>>> movies
